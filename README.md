@@ -32,8 +32,8 @@ Ideal for automation scripts, cloud management, or dashboards.
 ---
 
 ## 📚 Examples  
-- [exsample_one.py](https://github.com/KissmeBro/LiaraAPI/blob/main/examples/exsample_one.py)  
-- [exsample_two.py](https://github.com/KissmeBro/LiaraAPI/blob/main/examples/exsample_two.py)
+- [exsample_one.py](https://github.com/KissmeBro/LiaraAPI/blob/main/examples/example_one.py)  
+- [exsample_two.py](https://github.com/KissmeBro/LiaraAPI/blob/main/examples/example_two.py)
 
 ---
 
