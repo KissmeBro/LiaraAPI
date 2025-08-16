@@ -1,0 +1,77 @@
+Metadata-Version: 2.4
+Name: LiaraAPI
+Version: 1.0.0
+Summary: An intelligent, asynchronous search engine library for Python
+Home-page: https://github.com/kissmeBro/LiaraAPI
+Author: stone
+Author-email: kissme.cloud@example.com
+License: MIT
+Keywords: liara,api,google
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Framework :: AsyncIO
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: aiohttp
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KissmeBro/LiaraAPI/refs/heads/main/logo.png" alt="LiaraAPI Logo" width="230" />
+</p>
+
+# 🚀 LiaraAPI
+> An intelligent, asynchronous Python client for Liara API 🌐  
+
+---
+
+## ⭐ Overview  
+LiaraAPI is a modern asynchronous Python library designed to make interacting with [Liara](https://liara.ir) API easy and efficient.  
+Built with `asyncio` and `aiohttp`, it allows developers to manage projects, disks, domains, logs, and more,  
+with **AttrDict** support for dot and dictionary style access.  
+
+---
+
+## 🔥 Features  
+- ⚡ Fully asynchronous using `asyncio` and `aiohttp`  
+- 🧩 Dot-access (`obj.attr`) and dictionary-access (`obj["attr"]`) support  
+- 🛡️ Safe error handling with JSON output for all API errors  
+- 🎨 Pretty JSON output automatically when printed  
+- 🚀 Optimized for performance and readability  
+- 🧠 Designed for Python developers to easily integrate Liara API  
+
+---
+
+## 👨‍💻 Who is it for?  
+Perfect for Python developers who want to manage Liara cloud services  
+without writing boilerplate HTTP code.  
+Ideal for automation scripts, cloud management, or dashboards.  
+
+---
+
+## 📚 Examples  
+- [exsample_one.py](https://github.com/KissmeBro/LiaraAPI/blob/main/examples/exsample_one.py)  
+- [exsample_two.py](https://github.com/KissmeBro/LiaraAPI/blob/main/examples/exsample_two.py)
+
+---
+
+## 🔐 API Key  
+- Get your API Key from your [Liara](https://liara.ir)  
+
+---
+
+## 📦 Installation  
+```bash
+pip install LiaraAPI
